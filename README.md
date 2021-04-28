@@ -1,2 +1,2 @@
 # -Adeus-findViewById-
-Estudos ViewModel / RecyvlerView "Adeus findViewById" KOTLIN
+Estudos ViewModel / RecyclerView "Adeus findViewById" KOTLIN
